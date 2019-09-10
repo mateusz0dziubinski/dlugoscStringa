@@ -17,9 +17,3 @@ function dlugoscStringa(dlugoscTextu1, dlugoscTextu2){
 }
 
 console.log(dlugoscStringa());
-
-
-/*
-"Jestem świetnym programistą";
-"Uwielbiam JavaScript";
-*/
